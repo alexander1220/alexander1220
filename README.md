@@ -2,7 +2,7 @@
 
 My name is  **Alexander**  and I am a software developer. The projects on my profile are just random things I've made at one point or another, mostly for fun or convenience. Maybe they can be useful to some of you.
 
--   To see the list of my most popular projects,  [visit my website](https://alexanderportfolio.vercel.app).
+-   To see the list of my most popular projects,  [visit my website](https://www.fullstackalex.dev).
 -   If you want to contact me, add me on any of my socials and DM me! :)
 
 ### [](https://github.com/alexander1220#socials)Socials
