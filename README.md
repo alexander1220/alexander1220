@@ -11,4 +11,4 @@ My name is  **Alexander**  and I am a software developer. The projects on my pro
 
 ### [](https://github.com/alexander1220#stats)Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander1220&layout=compact&theme=dracula&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=alexander1220&layout=compact&theme=dracula&hide=css)](https://github.com/anuraghazra/github-readme-stats)
